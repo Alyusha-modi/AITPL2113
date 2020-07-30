@@ -102,4 +102,3 @@ print(min(t))
 
 #get sum of elments in the tuple
 print(sum(t))
-
