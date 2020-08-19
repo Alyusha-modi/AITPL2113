@@ -1,7 +1,5 @@
 
 import numpy
-
-
 # initialize two array
 x = numpy.array([[1, 2, 5], [3, 4, 7]], dtype=numpy.float64)
 y = numpy.array([[3, 4], [5, 6],[8, 9]], dtype=numpy.float64)
